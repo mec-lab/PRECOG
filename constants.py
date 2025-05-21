@@ -1,0 +1,10 @@
+max_force = 30
+amplitude = 2*3.14/4
+offset = 0
+frequency = 1/1000
+numberOfGenerations = 50
+populationSize = 25
+numSensorNeurons = 8
+numMotorNeurons = 5
+motorJointRange = 1
+timesteps = 10000
